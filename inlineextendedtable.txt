@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <table style="width:100%">
+    <tr>
+        <th>Country</th>
+        <th>Population</th>
+        <th>Area</th>
+        <th>Capital City</th>
+      </tr>
+      <tr>
+        <td>Ukraine</td>
+        <td>38,000,000</td>
+        <td>603,628 km2</td>
+        <td>Kyiv</td>
+      </tr>
+      <tr>
+        <td>Cyprus</td>
+        <td>1.3m</td>
+        <td>9250 km2</td>
+        <td>Nicosia</td>
+        </tr>
+        <tr>
+          <td>Greece</td>
+          <td>10.3m</td>
+          <td>131,957 km2</td>
+          <td>Athens</td>
+        </tr>
+        <tr>
+            <td>Spain</td>
+            <td>47m</td>
+            <td>505,992 km2</td>
+            <td>Madrid</td>
+            </tr>
+            <tr>
+                <td>Germany</td>
+                <td>83m</td>
+                <td>357,022 km2</td>
+                <td>Berlin</td>
+                </tr>
+            </tr>
+                </table>
+                </body>
+                </html>
